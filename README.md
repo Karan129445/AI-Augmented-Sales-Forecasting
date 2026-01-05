@@ -1,7 +1,7 @@
 # AI-Augmented Sales Performance & Forecasting Dashboard
 
 ## Project Overview
-This project analyzes 2017 sales data to understand why strong revenue did not fully translate into profitability.  
+This project analyzes sales data to understand why strong revenue did not fully translate into profitability.  
 The analysis focuses on identifying profit leakage, evaluating the impact of discounting, and forecasting short-term sales to support business decision-making.
 
 The project combines **Python-based analysis**, **H2O AutoML forecasting**, and **Power BI dashboards** to deliver actionable business insights.
@@ -60,3 +60,4 @@ The project combines **Python-based analysis**, **H2O AutoML forecasting**, and 
 ## Author
 **Karan Ramesh**  
 Data Analyst | AI-Augmented Analytics
+
